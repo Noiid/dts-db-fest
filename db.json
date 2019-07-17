@@ -1,0 +1,54 @@
+{
+  "festival":[
+    {
+      "id" : 1,
+      "judulFest" : "Malang Tempoe Doeloe",
+      "waktuFest" : "08-08-2019",
+      "lokasiFest" : "Jl. Prof. Moch. Yamin 3/175",
+      "hargaFest" : 30000,
+      "deskripsiFest" : "Malang Tempoe Doeloe sangat unik dan futuristik",
+      "videoFest" : "https://www.youtube.com/watch?v=uh3T60lqnQo",
+      "gambarFest" : "https://malangismine.files.wordpress.com/2013/05/festival-malang-kembali-2013.jpg",
+      "rundownFest" : "https://3.bp.blogspot.com/-kIa2qkEW5_A/WpOvDCwrpMI/AAAAAAAACDA/BWo2ujV_RukznSk0wPY24AMpHazCpNSaQCLcBGAs/s400/SYF%2BRehearsal%2BRundown.png",
+      "daerahFest" : "Ijen Boulevard"
+    },
+    {
+      "id" : 2,
+      "judulFest" : "Tari Topeng Malangan",
+      "waktuFest" : "17-08-2019",
+      "lokasiFest" : "Jl. Merdeka 17",
+      "hargaFest" : 30000,
+      "deskripsiFest" : "Tari topeng sangat identik dengan Kota Malang",
+      "videoFest" : "https://www.youtube.com/watch?v=Ikv-xlYP9c0",
+      "gambarFest" : "https://ublik.id/wp-content/uploads/2018/02/Tari-Topeng-Cirebon-Indonesia.jpg",
+      "rundownFest" : "https://upincase.upy.ac.id/wp-content/uploads/2018/04/day1.jpg",
+      "daerahFest" : "Tugu Malang"
+    },
+    {
+      "id" : 3,
+      "judulFest" : "Jambore Onthel Malang",
+      "waktuFest" : "05-08-2019",
+      "lokasiFest" : "Jl. Veteran Timur 15",
+      "hargaFest" : 30000,
+      "deskripsiFest" : "Onthel sangat unik dan klasik di zaman modern seperti ini",
+      "videoFest" : "https://www.youtube.com/watch?v=_kDopGZMT2w",
+      "gambarFest" : "http://mediakorannusantara.com/wp-content/uploads/2015/05/sepeda-kuno.jpg",
+      "rundownFest" : "http://www.infobdg.com/v2/wp-content/uploads/2013/11/z.jpg",
+      "daerahFest" : "Veteran"
+    }
+  ],
+  "users":[
+    {
+      "id" : 1,
+      "username" : "Noiidmw",
+      "password" : "noiidmw",
+      "email" : "noiid@gmail.com"
+    },
+    {
+      "id" : 2,
+      "username" : "Will",
+      "password" : "willno",
+      "email" : "will@gmail.com"
+    }
+  ]
+}
